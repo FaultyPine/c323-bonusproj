@@ -13,6 +13,7 @@ reminder fragment with proper layout
 
 ## Video Walkthrough
 
+https://streamable.com/fo7uam
 
 ## License
 
